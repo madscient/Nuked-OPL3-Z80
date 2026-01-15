@@ -88,7 +88,7 @@ OPL3_GenerateStream(&chip, output, 1);
 ## クレジット
 
 - **オリジナル作者**: Alexey Khokholov (Nuke.YKT)
-- **z88dk移植**: [あなたの名前]
+- **z88dk移植**: madscient
 
 ## 謝辞
 
